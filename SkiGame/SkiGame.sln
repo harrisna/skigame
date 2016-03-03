@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiGame.CSharp.Plugins", "SkiGame.CSharp.Plugins.csproj", "{0DF496B2-B743-1A93-8F3C-BEB2A6D86A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiGame.CSharp", "SkiGame.CSharp.csproj", "{6F945006-E217-E37D-60CD-8171A46D33B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiGame.CSharp.Editor", "SkiGame.CSharp.Editor.csproj", "{55291CC4-1782-AE74-DCD5-88E743F5D216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF496B2-B743-1A93-8F3C-BEB2A6D86A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF496B2-B743-1A93-8F3C-BEB2A6D86A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF496B2-B743-1A93-8F3C-BEB2A6D86A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF496B2-B743-1A93-8F3C-BEB2A6D86A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F945006-E217-E37D-60CD-8171A46D33B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F945006-E217-E37D-60CD-8171A46D33B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F945006-E217-E37D-60CD-8171A46D33B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F945006-E217-E37D-60CD-8171A46D33B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55291CC4-1782-AE74-DCD5-88E743F5D216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55291CC4-1782-AE74-DCD5-88E743F5D216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55291CC4-1782-AE74-DCD5-88E743F5D216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55291CC4-1782-AE74-DCD5-88E743F5D216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
